@@ -1,1 +1,24 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    font-family: nyt-cheltenham, NYTCheltenham, cheltenham, sans-serif;
+    color: red;
+}
+
+.funParagraph {
+    font-style: italic;
+    color: green;
+}
+
+img {
+    width: 25%;
+    border-radius: 8px;
+}
+
+article {
+    padding: 5px;
+}
