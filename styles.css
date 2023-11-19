@@ -2,16 +2,21 @@
 body {
     margin: 8px;
     display: block;
+    background-color: cornsilk;
 }
 
 #mainHeading {
-    font-family: nyt-cheltenham, NYTCheltenham, cheltenham, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     color: red;
 }
 
 .funParagraph {
     font-style: italic;
     color: green;
+}
+
+h2 {
+    font-family: Inter,Helvetica, Arial, sans-serif;
 }
 
 img {
