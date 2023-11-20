@@ -8,6 +8,7 @@ body {
 #mainHeading {
     font-family: Helvetica, Arial, sans-serif;
     color: red;
+    text-align: center;
 }
 
 .funParagraph {
@@ -17,6 +18,7 @@ body {
 
 h2 {
     font-family: Inter,Helvetica, Arial, sans-serif;
+    text-align: center;
 }
 
 img {
@@ -26,4 +28,8 @@ img {
 
 article {
     padding: 5px;
+}
+
+footer {
+    font-style: italic;
 }
